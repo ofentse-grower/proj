@@ -1,0 +1,8 @@
+.hidden {
+    display: none;
+}
+
+.navbar {
+    background-color: black;
+    color: black;
+}
